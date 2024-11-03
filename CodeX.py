@@ -263,6 +263,8 @@ while True:
                         print("Selection is out of range.")
                         break
 
+                    print("Editing git")
+
                     flag = False
                     start_name = 0
                     current_name_index = 0
